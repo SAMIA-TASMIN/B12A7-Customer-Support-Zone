@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to log into the account.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-01-05T10:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failure",
+    "description": "Transaction not completed but amount deducted.",
+    "customer": "Sarah Miller",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-01-06T09:20:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Mobile App Crash",
+    "description": "App crashes on startup on Android devices.",
+    "customer": "David Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-01-07T12:40:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Slow Website",
+    "description": "Website taking too long to load on desktop.",
+    "customer": "Emma Wilson",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-01-09T08:10:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Refund Request",
+    "description": "Customer wants a refund for a wrong order.",
+    "customer": "Chris Evans",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-01-10T16:55:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Account Locked",
+    "description": "User account locked after multiple attempts.",
+    "customer": "Michael Brown",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-01-11T10:30:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Bug in Checkout Page",
+    "description": "Items are not added to cart properly.",
+    "customer": "Olivia Taylor",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-01-11T14:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Email Not Received",
+    "description": "Customer not receiving verification emails.",
+    "customer": "Sophia Johnson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-01-12T07:15:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Order Delay",
+    "description": "Customer reports order not delivered on time.",
+    "customer": "James Anderson",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2025-01-12T13:20:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Subscription Issue",
+    "description": "Premium plan not activated after payment.",
+    "customer": "William Jones",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-01-13T11:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Incorrect Billing",
+    "description": "Customer charged twice for the same invoice.",
+    "customer": "Ava Martinez",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-01-13T17:45:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Feature Request",
+    "description": "Customer requesting a dark mode for the app.",
+    "customer": "Isabella Lee",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-01-14T09:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Data Sync Issue",
+    "description": "App data not syncing across devices.",
+    "customer": "Benjamin Clark",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-01-14T13:10:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Profile Update Problem",
+    "description": "Users unable to update personal information.",
+    "customer": "Mia Rodriguez",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-01-15T11:35:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Wrong Product Delivered",
+    "description": "Customer received a different item than ordered.",
+    "customer": "Lucas Walker",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-01-15T14:50:00Z"
+  }
+]
