@@ -1,6 +1,6 @@
 
 
-## [github-link](https://github.com/SAMIA-TASMIN/Assignment7-Customer-Support-Zone)
+## [github-link](https://github.com/SAMIA-TASMIN/B12A7-Customer-Support-Zone)
 ## [github-live-link]( https://samia-tasmin.github.io/B12A7-Customer-Support-Zone/)
 ## [live-link](https://extraordinary-moonbeam-a54350.netlify.app/)
 
