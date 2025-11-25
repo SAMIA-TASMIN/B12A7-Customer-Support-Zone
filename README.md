@@ -2,7 +2,7 @@
 
 ## [github-link](https://github.com/SAMIA-TASMIN/B12A7-Customer-Support-Zone)
 ## [github-live-link]( https://samia-tasmin.github.io/B12A7-Customer-Support-Zone/)
-## [live-link](https://extraordinary-moonbeam-a54350.netlify.app/)
+## [live-link](https://a7-b12a7-customer-support-zone.netlify.app/)
 
 ## 1. What is JSX, and why is it used?
 
